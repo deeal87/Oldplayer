@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Radio Bollerwagen",
+    "genre": "Schlager",
+    "stream_url": "radio-browser://Radio Bollerwagen"
+  },
+  {
+    "name": "1LIVE",
+    "genre": "Pop",
+    "stream_url": "radio-browser://1LIVE"
+  },
+  {
+    "name": "WDR 4",
+    "genre": "Hits/Oldies/Pop",
+    "stream_url": "radio-browser://WDR 4"
+  },
+  {
+    "name": "SWR3",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://SWR3"
+  },
+  {
+    "name": "ANTENNE BAYERN",
+    "genre": "Hits/Pop",
+    "stream_url": "radio-browser://ANTENNE BAYERN"
+  },
+  {
+    "name": "WDR 2",
+    "genre": "Hits",
+    "stream_url": "radio-browser://WDR 2"
+  },
+  {
+    "name": "Deutschlandfunk",
+    "genre": "Kultur/Information",
+    "stream_url": "radio-browser://Deutschlandfunk"
+  },
+  {
+    "name": "Weihnachten mit ANTENNE BAYERN",
+    "genre": "Weihnachtshits",
+    "stream_url": "radio-browser://Weihnachten mit ANTENNE BAYERN"
+  },
+  {
+    "name": "NDR 2",
+    "genre": "Oldies/Pop/Charts",
+    "stream_url": "radio-browser://NDR 2"
+  },
+  {
+    "name": "SUNSHINE LIVE",
+    "genre": "Dance/Electro",
+    "stream_url": "radio-browser://SUNSHINE LIVE"
+  },
+  {
+    "name": "bigFM",
+    "genre": "Hip Hop/Pop",
+    "stream_url": "radio-browser://bigFM"
+  },
+  {
+    "name": "Radio Paloma",
+    "genre": "Schlager",
+    "stream_url": "radio-browser://Radio Paloma"
+  },
+  {
+    "name": "Radio Hamburg",
+    "genre": "Pop",
+    "stream_url": "radio-browser://Radio Hamburg"
+  },
+  {
+    "name": "Klassik Radio",
+    "genre": "Klassik",
+    "stream_url": "radio-browser://Klassik Radio"
+  },
+  {
+    "name": "Radio Energy",
+    "genre": "Charts/Pop",
+    "stream_url": "radio-browser://Radio Energy"
+  },
+  {
+    "name": "Radio Fantasy",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Radio Fantasy"
+  },
+  {
+    "name": "NRJ",
+    "genre": "Hits/Pop",
+    "stream_url": "radio-browser://NRJ"
+  },
+  {
+    "name": "Radio FFH",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio FFH"
+  },
+  {
+    "name": "YOU FM",
+    "genre": "Jugendradio",
+    "stream_url": "radio-browser://YOU FM"
+  },
+  {
+    "name": "NDR 1",
+    "genre": "Regional",
+    "stream_url": "radio-browser://NDR 1"
+  },
+  {
+    "name": "Bayern 1",
+    "genre": "Oldies/Pop",
+    "stream_url": "radio-browser://Bayern 1"
+  },
+  {
+    "name": "Antenne Thüringen",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Antenne Thüringen"
+  },
+  {
+    "name": "Radio BOB!",
+    "genre": "Rock",
+    "stream_url": "radio-browser://Radio BOB!"
+  },
+  {
+    "name": "Hit‐Radio Antenne",
+    "genre": "Pop",
+    "stream_url": "radio-browser://Hit‐Radio Antenne"
+  },
+  {
+    "name": "Radio Regenbogen",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio Regenbogen"
+  },
+  {
+    "name": "NDR Kultur",
+    "genre": "Kultur/klassische Musik",
+    "stream_url": "radio-browser://NDR Kultur"
+  },
+  {
+    "name": "Radio Sunshine",
+    "genre": "Pop",
+    "stream_url": "radio-browser://Radio Sunshine"
+  },
+  {
+    "name": "Radio 7",
+    "genre": "Hits/Pop",
+    "stream_url": "radio-browser://Radio 7"
+  },
+  {
+    "name": "SWR1",
+    "genre": "Oldies/Klassiker",
+    "stream_url": "radio-browser://SWR1"
+  },
+  {
+    "name": "Radio Arabella",
+    "genre": "Pop/Oldies",
+    "stream_url": "radio-browser://Radio Arabella"
+  },
+  {
+    "name": "MDR JUMP",
+    "genre": "Pop",
+    "stream_url": "radio-browser://MDR JUMP"
+  },
+  {
+    "name": "Radio Energy (Regional)",
+    "genre": "Regional/Pop",
+    "stream_url": "radio-browser://Radio Energy (Regional)"
+  },
+  {
+    "name": "NDR Info",
+    "genre": "News/Information",
+    "stream_url": "radio-browser://NDR Info"
+  },
+  {
+    "name": "You FM",
+    "genre": "Jugend",
+    "stream_url": "radio-browser://You FM"
+  },
+  {
+    "name": "Radio B2",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Radio B2"
+  },
+  {
+    "name": "Radio 90s90s",
+    "genre": "90er Hits",
+    "stream_url": "radio-browser://Radio 90s90s"
+  },
+  {
+    "name": "Planet Radio",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Planet Radio"
+  },
+  {
+    "name": "Radio Teddy",
+    "genre": "Familien/Kids",
+    "stream_url": "radio-browser://Radio Teddy"
+  },
+  {
+    "name": "Radio Arabella 92.9",
+    "genre": "Pop/Oldies",
+    "stream_url": "radio-browser://Radio Arabella 92.9"
+  },
+  {
+    "name": "Radio Horeb",
+    "genre": "Kirche/Spirituell",
+    "stream_url": "radio-browser://Radio Horeb"
+  },
+  {
+    "name": "TechnoBase.FM",
+    "genre": "Elektronisch",
+    "stream_url": "radio-browser://TechnoBase.FM"
+  },
+  {
+    "name": "Balkan Radio",
+    "genre": "World Music",
+    "stream_url": "radio-browser://Balkan Radio"
+  },
+  {
+    "name": "Radio Oberhausen",
+    "genre": "Pop",
+    "stream_url": "radio-browser://Radio Oberhausen"
+  },
+  {
+    "name": "Radio WAF",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio WAF"
+  },
+  {
+    "name": "Radio NORA",
+    "genre": "Hits/Pop",
+    "stream_url": "radio-browser://Radio NORA"
+  },
+  {
+    "name": "Radio Galaxy",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio Galaxy"
+  },
+  {
+    "name": "Radio TEDDY Klassiker",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Radio TEDDY Klassiker"
+  },
+  {
+    "name": "Radio Fritz",
+    "genre": "Jugend",
+    "stream_url": "radio-browser://Radio Fritz"
+  },
+  {
+    "name": "Radio Eins",
+    "genre": "Alternative",
+    "stream_url": "radio-browser://Radio Eins"
+  },
+  {
+    "name": "Radio PSR",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio PSR"
+  },
+  {
+    "name": "Radio Gong",
+    "genre": "Pop/Klassiker",
+    "stream_url": "radio-browser://Radio Gong"
+  },
+  {
+    "name": "Schlagerparadies",
+    "genre": "Schlager",
+    "stream_url": "radio-browser://Schlagerparadies"
+  },
+  {
+    "name": "Rock Antenne",
+    "genre": "Rock",
+    "stream_url": "radio-browser://Rock Antenne"
+  },
+  {
+    "name": "Radio 21",
+    "genre": "Rock/Pop",
+    "stream_url": "radio-browser://Radio 21"
+  },
+  {
+    "name": "Radio Regenbogen 2",
+    "genre": "Pop",
+    "stream_url": "radio-browser://Radio Regenbogen 2"
+  },
+  {
+    "name": "WDR 5",
+    "genre": "Information/Kultur",
+    "stream_url": "radio-browser://WDR 5"
+  },
+  {
+    "name": "NDR 90,3",
+    "genre": "Regional",
+    "stream_url": "radio-browser://NDR 90,3"
+  },
+  {
+    "name": "Radio Arabella Bayern",
+    "genre": "Pop/Oldies",
+    "stream_url": "radio-browser://Radio Arabella Bayern"
+  },
+  {
+    "name": "Bayern 3",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Bayern 3"
+  },
+  {
+    "name": "Delta Radio",
+    "genre": "Alternative/Charts",
+    "stream_url": "radio-browser://Delta Radio"
+  },
+  {
+    "name": "Radio Primavera",
+    "genre": "Latin/World",
+    "stream_url": "radio-browser://Radio Primavera"
+  },
+  {
+    "name": "Go Radio",
+    "genre": "Pop",
+    "stream_url": "radio-browser://Go Radio"
+  },
+  {
+    "name": "104.6 RTL",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://104.6 RTL"
+  },
+  {
+    "name": "RPR1.",
+    "genre": "Adult Contemporary",
+    "stream_url": "radio-browser://RPR1."
+  },
+  {
+    "name": "Radio Galaxy FM",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio Galaxy FM"
+  },
+  {
+    "name": "Antenne Bayern 80s90s",
+    "genre": "80er/90er Hits",
+    "stream_url": "radio-browser://Antenne Bayern 80s90s"
+  },
+  {
+    "name": "Radio Brocken",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio Brocken"
+  },
+  {
+    "name": "Sunshine Live Classic",
+    "genre": "Dance",
+    "stream_url": "radio-browser://Sunshine Live Classic"
+  },
+  {
+    "name": "Radio Fantasy Gold",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Radio Fantasy Gold"
+  },
+  {
+    "name": "Radio Salü",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio Salü"
+  },
+  {
+    "name": "Radio Gong 96.3",
+    "genre": "Pop/Charts",
+    "stream_url": "radio-browser://Radio Gong 96.3"
+  },
+  {
+    "name": "Antenne Bayern Classics",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Antenne Bayern Classics"
+  },
+  {
+    "name": "Radio TEDDY Mix",
+    "genre": "Family",
+    "stream_url": "radio-browser://Radio TEDDY Mix"
+  },
+  {
+    "name": "Radio BOB! Classic Rock",
+    "genre": "Rock",
+    "stream_url": "radio-browser://Radio BOB! Classic Rock"
+  },
+  {
+    "name": "Radio OKJ",
+    "genre": "Hits/Charts",
+    "stream_url": "radio-browser://Radio OKJ"
+  },
+  {
+    "name": "Radio21 Classic",
+    "genre": "Rock/Oldies",
+    "stream_url": "radio-browser://Radio21 Classic"
+  },
+  {
+    "name": "Radio 7 Gold",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Radio 7 Gold"
+  },
+  {
+    "name": "Bayern Klassik",
+    "genre": "Klassik",
+    "stream_url": "radio-browser://Bayern Klassik"
+  },
+  {
+    "name": "Radio PSR Gold",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Radio PSR Gold"
+  },
+  {
+    "name": "SWR4",
+    "genre": "Regional/Oldies",
+    "stream_url": "radio-browser://SWR4"
+  },
+  {
+    "name": "WDR Event",
+    "genre": "Alternative",
+    "stream_url": "radio-browser://WDR Event"
+  },
+  {
+    "name": "HIT RADIO FFH 80s90s",
+    "genre": "80er/90er",
+    "stream_url": "radio-browser://HIT RADIO FFH 80s90s"
+  },
+  {
+    "name": "Radio Paradiso",
+    "genre": "Chill/Pop",
+    "stream_url": "radio-browser://Radio Paradiso"
+  },
+  {
+    "name": "Schlager Radio",
+    "genre": "Schlager",
+    "stream_url": "radio-browser://Schlager Radio"
+  },
+  {
+    "name": "Radio Brocken 80s",
+    "genre": "80er Hits",
+    "stream_url": "radio-browser://Radio Brocken 80s"
+  },
+  {
+    "name": "Classic FM",
+    "genre": "Klassik",
+    "stream_url": "radio-browser://Classic FM"
+  },
+  {
+    "name": "Radio X",
+    "genre": "Alternative",
+    "stream_url": "radio-browser://Radio X"
+  },
+  {
+    "name": "JazzRadio",
+    "genre": "Jazz",
+    "stream_url": "radio-browser://JazzRadio"
+  },
+  {
+    "name": "Clubstar.FM",
+    "genre": "Dance",
+    "stream_url": "radio-browser://Clubstar.FM"
+  },
+  {
+    "name": "House FM",
+    "genre": "House/Electronic",
+    "stream_url": "radio-browser://House FM"
+  },
+  {
+    "name": "Radio Böller",
+    "genre": "Party",
+    "stream_url": "radio-browser://Radio Böller"
+  },
+  {
+    "name": "Radio Galaxy Young",
+    "genre": "Youth/Charts",
+    "stream_url": "radio-browser://Radio Galaxy Young"
+  },
+  {
+    "name": "Radio Palmen",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Radio Palmen"
+  },
+  {
+    "name": "HitMix Radio",
+    "genre": "Hits",
+    "stream_url": "radio-browser://HitMix Radio"
+  },
+  {
+    "name": "LoungeFM",
+    "genre": "Chill",
+    "stream_url": "radio-browser://LoungeFM"
+  },
+  {
+    "name": "Rock FM",
+    "genre": "Rock",
+    "stream_url": "radio-browser://Rock FM"
+  },
+  {
+    "name": "Dance45",
+    "genre": "Dance/Charts",
+    "stream_url": "radio-browser://Dance45"
+  },
+  {
+    "name": "Radio Retro",
+    "genre": "80er/90er",
+    "stream_url": "radio-browser://Radio Retro"
+  },
+  {
+    "name": "Vintage Radio",
+    "genre": "Oldies",
+    "stream_url": "radio-browser://Vintage Radio"
+  },
+  {
+    "name": "Global Beats Radio",
+    "genre": "World/Pop",
+    "stream_url": "radio-browser://Global Beats Radio"
+  }
+]
